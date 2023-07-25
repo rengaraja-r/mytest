@@ -2,7 +2,7 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-    <Button id="btn1" text="Hello"></Button>
+    <Button id="btn2" text="Hello"></Button>
         <content />
     </Page>
 </mvc:View>
